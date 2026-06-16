@@ -105,10 +105,14 @@ Customer-Churn-Analysis/
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/peter-ngamau/Customer-Churn-Analysis.git
+   git clone https://github.com/peter-ngamau/Telco-Customer-Churn-Analysis.git
 ```
-2. Open `churn_analysis.ipynb` in Jupyter Notebook or VS Code
-3. Run all cells in order
+2. Open `Understand the Dataset.ipynb`,
+3.    `Data Cleaning.ipynb`,
+4.    `Explorative Data Analysis.ipynb`,
+5.    `Customer Segmentation Visualization.ipynb`,
+6.    `Advanced Analysis.ipynb` in Jupyter Notebook or VS Code
+7. Run all cells in order
 
 ---
 
