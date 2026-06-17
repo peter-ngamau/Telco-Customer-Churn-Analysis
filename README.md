@@ -56,6 +56,8 @@ service type, payment method, tech support, online security, and demographic att
 - Explored distribution of churn across contract types, payment methods, and internet services
 - Visualised tenure distribution, monthly charge spread, and senior citizen breakdown
 
+  ![Numeric column distribution](Screenshot/Distribution of numerical columns.png)
+
 ### Task 4 — Bivariate Analysis
 - Compared churn rates across contract type, internet service, and payment method
 - Analysed monthly charges and tenure against churn status
