@@ -56,12 +56,14 @@ service type, payment method, tech support, online security, and demographic att
 - Explored distribution of churn across contract types, payment methods, and internet services
 - Visualised tenure distribution, monthly charge spread, and senior citizen breakdown
 
-  ![Numeric column distribution](Screenshot/Distribution of numerical columns.png)
+  ![Numeric column distribution](Screenshot/Customer_churn-NumericDistribution.png)
 
 ### Task 4 — Bivariate Analysis
 - Compared churn rates across contract type, internet service, and payment method
 - Analysed monthly charges and tenure against churn status
 - Explored correlation between numeric features using a heatmap
+
+  ![Churn by contract](Screenshot/Customer_churn-churnbycontract.png)
 
 ### Task 5 — Key Findings & Business Recommendations
 - Summarised the main churn drivers with supporting visualisations
